@@ -1,0 +1,1 @@
+Repositório contém alguns conceitos básicos sobre startes e também sobre o arquivo pom.xml (Maven).
